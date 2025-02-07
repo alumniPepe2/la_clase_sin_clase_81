@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alumniPepe2/la_clase_sin_clase_81.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alumniPepe2/la_clase_sin_clase_81/issues"
+  },
+  "homepage": "https://github.com/alumniPepe2/la_clase_sin_clase_81#readme"
+}
